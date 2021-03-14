@@ -1,5 +1,6 @@
 # Ranking an array of STR data
 ![Java](https://img.shields.io/badge/-Java-0a0a0a?style=for-the-badge&logo=Java) ![Spark](https://img.shields.io/badge/-Apache&Spark-0a0a0a?style=for-the-badge&logo=Apache&Spark)
+<br/>
 The utility evaluates TMRCA (Time to the Most Recent Common Ancestor) by Y-STR loci and then performs ranking relative to the base haplotype.
 
 * [TMRCA](https://en.wikipedia.org/wiki/Most_recent_common_ancestor)
