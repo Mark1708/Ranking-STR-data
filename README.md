@@ -42,3 +42,5 @@ Example of Data:
 ---
 * Before ranking: [DataSet](https://github.com/Mark1708/Ranking-STR-data/blob/master/assets/DataSet.csv)
 * After ranking: [RankedDataSet](https://github.com/Mark1708/Ranking-STR-data/blob/master/assets/RankedData.csv)
+
+Note: The first column should be named "Index", followed by the names of the loci.
