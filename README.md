@@ -44,3 +44,6 @@ Example of Data:
 * After ranking: [RankedDataSet](https://github.com/Mark1708/Ranking-STR-data/blob/master/assets/RankedData.csv)
 
 Note: The first column should be named "Index", followed by the names of the loci.
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark1708&repo=ranking-str-data)
+
