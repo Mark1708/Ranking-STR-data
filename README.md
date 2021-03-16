@@ -45,5 +45,5 @@ Example of Data:
 
 Note: The first column should be named "Index", followed by the names of the loci.
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark1708&repo=ranking-str-data)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark1708&repo=ranking-str-data&theme=chartreuse-dark&show_icons=true)
 
